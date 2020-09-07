@@ -1,0 +1,2 @@
+1) newman run https://www.getpostman.com/collections/6844239438ceacacd11b -r html
+2) newman run https://www.getpostman.com/collections/6844239438ceacacd11b --reporters=cli,htmlextra
